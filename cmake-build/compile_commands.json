@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/cmake-build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -std=gnu11 -o CMakeFiles\\fat.dir\\tools\\fat\\fat.c.obj -c C:\\Users\\hp\\Desktop\\Camilo\\proyectos\\C\\os-operativo\\tools\\fat\\fat.c",
+  "file": "C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/tools/fat/fat.c",
+  "output": "C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/cmake-build/CMakeFiles/fat.dir/tools/fat/fat.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/cmake-build/CMakeFiles/fat.dir
+C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/cmake-build/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/Camilo/proyectos/C/os-operativo/cmake-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,22 @@
+# Emulate a 16-bit Watcom environment as closely as clangd allows.
+-target
+i386-pc-linux-gnu
+-std=c99
+
+# Open Watcom headers.
+-I
+/opt/watcom/lh
+-I
+/opt/watcom/h
+
+# Watcom-specific keywords and attributes unsupported by Clang.
+-D__far=
+-D__near=
+-D__interrupt=
+-D__pascal=
+-D__cdecl=
+-D__watcall=
+-D_Packed=
+-ffreestanding
+-Wall
+-Wextra

@@ -1,0 +1,6 @@
+If:
+  PathMatch: ^src/bootloader/stage2/.*
+CompileFlags:
+  Add:
+    - -Dfar=
+    - -D_cdecl=
